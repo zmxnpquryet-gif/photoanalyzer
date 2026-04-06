@@ -5,7 +5,7 @@ a = Analysis(
     ['app.py'],
     pathex=[],
     binaries=[],
-    datas=[('assets\\fonts\\NotoSansKR-VF.ttf', 'assets\\fonts')],
+    datas=[('assets\\\\fonts\\\\NotoSansKR-VF.ttf', 'assets\\\\fonts')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
